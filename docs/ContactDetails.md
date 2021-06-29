@@ -14,8 +14,8 @@
 
 公众号：厦门大学RCS机器人队
 
-![RCS公众号](RCS公众号.jpg)
+<img src="RCS公众号.jpg" alt="RCS公众号" style="zoom:50%;" />
 
-Bilibili：厦门大学RCS机器人队
+bilibili：厦门大学RCS机器人队
 
-![机器人队B站二维码](机器人队B站二维码.jpg)
+<img src="机器人队B站二维码.jpg" alt="机器人队B站二维码" style="zoom:50%;" />
