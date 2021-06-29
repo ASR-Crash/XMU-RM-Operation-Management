@@ -1,25 +1,23 @@
-site_name: 厦门大学·RoboMaster·项目管理<img src='https://cdn.img.wenhairu.com/images/2020/10/11/CksbD.png'>
-site_favicon: favicon.ico
+site_name: 厦门大学·RoboMaster·运营管理<img src='https://cdn.img.wenhairu.com/images/2020/10/11/CksbD.png'>
+site_url: 
 nav:
-- 战队信息库:
-    - 团队架构: TeamStructure.md
-    - 团队章程: TeamCharter.md
-    - 队员信息库: TeamInformationBase.htm
-    - 成果信息库: AchievementInformationBase.md
-- 项目进展:
-    - 时间轴规划: TimelineSchedule.md
-    - 进度记录: ProgressRecord.md
-    - 进度分析: ScheduleAnalysis.md
-- 成本预算:
-    - 团队预算表: TeamBudget.md
-    - 支出流水表: ExpenditureRecord.htm
-    - 兵种BOM表: ArmsBOM.md
-    - 成本分析: CostAnalysis.md
-- 团队事项:
-    - 会议记录: MeetingMinutes.md
-    - 团队建设: TeamBuilding.md
-    - 其他内容: OtherContent.md
+- 战队信息:
+    - 团队介绍: TeamIntroduction.md
+    - 赛事介绍: CompetitionIntro.md
+    - 工作内容: WorkContent.md
+    - 联系方式: ContactDetails.md
+- 宣传相关:
+    - 平台运营: PlatformOperation.md
+    - 宣传海报: PropagandaPoster.md
+    - 纳新海报: RecruitPoster.md
+- 商业相关:
+    - 招商单页: CommercialPage.md
+    - 赞助权益: SponsorRights.md
+    - 合作公示: PartnerAnnouncement.md
+- 财务相关:
+    - 财务流程: FinancialProcess.md
+    - 财务规范: FinancialSpecification.md
     
 theme: readthedocs
-site_author: Crash
-copyright: Copyright © 2020 ASR-Crash
+site_author: ASR-Crash
+copyright: Copyright © 2021 ASR-Crash

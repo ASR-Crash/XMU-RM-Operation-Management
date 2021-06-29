@@ -1,30 +1,28 @@
-# 厦门大学机器人队-项目管理文档
+# 厦门大学机器人队-运营管理文档
 
-### 战队信息库
-- [团队架构](TeamStructure.md)
-- [团队章程](TeamCharter.md)
-- [队员信息库](TeamInformationBase.htm)
-- [成果信息库](AchievementInformationBase.md)
+### 战队信息
+- [团队介绍](TeamIntroduction.md)
+- [赛事介绍](CompetitionIntro.md)
+- [工作内容](WorkContent.md)
+- [联系方式](ContactDetails.md)
 
-### 项目进度
-- [时间轴规划](TimelineSchedule.md)
-- [进度记录](ProgressRecord.md)
-- [进度分析](ScheduleAnalysis.md)
+### 宣传相关
+- [平台运营](PlatformOperation.md)
+- [宣传海报](PropagandaPoster.md)
+- [纳新海报](RecruitPoster.md)
 
-### 成本预算
+### 商业相关
 
-- [团队预算表](TeamBudget.md)
-- [支出流水表](ExpenditureRecord.htm)
-- [兵种BOM表](ArmsBOM.md)
-- [成本分析](CostAnalysis.md)
+- [招商单页](CommercialPage.md)
+- [赞助权益](SponsorRights.md)
+- [合作公示](PartnerAnnouncement.md)
 
-### 团队事项
-- [会议记录](MeetingMinutes.md)
-- [团队建设](TeamBuilding.md)
-- [其他内容](OtherContent.md)
+### 财务相关
+- [财务流程](FinancialProcess.md)
+- [财务规范](FinancialSpecification.md)
 
 ----
-###### 更新时间：2020.10.06
+###### 更新时间：2021.06.28
 ----
 
 <img src="logo\logo2.png" style="zoom: 25%;" />
