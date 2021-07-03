@@ -32,7 +32,7 @@
 
 #### 周边赛事
 
-[中美青年创客大赛]: http://www.chinaus-maker.org.cn/
-[中国高校智能机器人创意大赛]: http://www.robotcontest.cn/
-[中国“互联网+”全国大学生创新创业大赛]: https://cy.ncss.cn/
+[中美青年创客大赛](http://www.chinaus-maker.org.cn/)
+[中国高校智能机器人创意大赛](http://www.robotcontest.cn/)
+[中国“互联网+”全国大学生创新创业大赛](https://cy.ncss.cn/)
 
