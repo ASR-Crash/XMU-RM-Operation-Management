@@ -4,6 +4,8 @@
 
 #### 基本情况
 
+<center><img src="RCS logo.jpg" alt="RCS logo" style="zoom:36%;" /></center>
+
 厦门大学机器人队成立于2008年，由厦门大学物理与机电工程学院学生发起。
 
 机器人队队名是RCS：R代表Robot；C代表Creation, Contribution, Cooperation；S代表Science, Stick。
