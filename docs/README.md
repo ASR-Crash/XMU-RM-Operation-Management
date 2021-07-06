@@ -9,7 +9,7 @@
 ### 宣传相关
 - [平台运营](PlatformOperation.md)
 - [宣传海报](PropagandaPoster.md)
-- [纳新海报](RecruitPoster.md)
+- [活动策划](EventsPlanning.md)
 
 ### 商业相关
 
