@@ -6,7 +6,7 @@
 
 <center><img src="RCS logo.jpg" alt="RCS logo" style="zoom:36%;" /></center>
 
-厦门大学机器人队成立于2008年，由厦门大学物理与机电工程学院学生发起。
+厦门大学机器人队成立于2008年，以提高学生在创新意识、工程实践能力、团队协作水平等方面的能力，培养出一批爱创新、会动手、能协作、肯拼搏的科技精英人才为目的。
 
 机器人队队名是RCS：R代表Robot；C代表Creation, Contribution, Cooperation；S代表Science, Stick。
 
@@ -28,5 +28,4 @@
 
 ![厦门大学 RoboMaster 研发管理运营架构 项目 V3.0](厦门大学 RoboMaster 研发管理运营架构 项目 V3.0.png)
 
-
-
+<video src="厦门大学机器人队出品视频.mp4"></video>
