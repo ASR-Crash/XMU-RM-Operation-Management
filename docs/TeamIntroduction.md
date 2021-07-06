@@ -16,6 +16,9 @@
 
 招新宣传视频：[【厦门大学机器人队招新宣传】还记得儿时的机甲梦吗？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1sB4y1T7aE)
 
+纳新问卷：【腾讯文档】厦门大学机器人队纳新问卷
+https://docs.qq.com/form/page/DR0dtUVNnemtFcG14?_w_tencentdocx_form=1
+
 #### 团队架构
 
 ![厦门大学 RoboMaster 研发管理运营架构 研发 V3.0](厦门大学 RoboMaster 研发管理运营架构 研发 V3.0.png)

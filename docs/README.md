@@ -22,7 +22,7 @@
 - [财务规范](FinancialSpecification.md)
 
 ----
-###### 更新时间：2021.07.04
+###### 更新时间：2021.07.05
 ----
 
 <img src="logo\logo3.png" style="zoom: 25%;" />
