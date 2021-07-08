@@ -20,6 +20,10 @@
 
 纳新问卷：[厦门大学机器人队纳新问卷](https://docs.qq.com/form/page/DR0dtUVNnemtFcG14?_w_tencentdocx_form=1)
 
+#### 生态圈
+
+![厦门大学机器人队-生态圈develop](厦门大学机器人队-生态圈develop.png)
+
 #### 团队架构
 
 ![厦门大学 RoboMaster 研发管理运营架构 研发 V3.0](厦门大学 RoboMaster 研发管理运营架构 研发 V3.0.png)

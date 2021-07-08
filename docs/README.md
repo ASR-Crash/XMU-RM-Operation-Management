@@ -17,12 +17,11 @@
 - [赞助权益](SponsorRights.md)
 - [合作公示](PartnerAnnouncement.md)
 
-### 财务相关
-- [财务流程](FinancialProcess.md)
-- [财务规范](FinancialSpecification.md)
+### 理论导入
+- 敬请期待！
 
 ----
-###### 更新时间：2021.07.07
+###### 更新时间：2021.07.08
 ----
 
 <img src="logo\logo3.png" style="zoom: 25%;" />
