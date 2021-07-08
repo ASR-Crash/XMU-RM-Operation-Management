@@ -15,9 +15,6 @@ nav:
     - 招商单页: CommercialPage.md
     - 赞助权益: SponsorRights.md
     - 合作公示: PartnerAnnouncement.md
-- 财务相关:
-    - 财务流程: FinancialProcess.md
-    - 财务规范: FinancialSpecification.md
     
 theme: readthedocs
 site_author: ASR-Crash
