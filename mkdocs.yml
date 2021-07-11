@@ -7,14 +7,16 @@ nav:
     - 赛事介绍: CompetitionIntro.md
     - 工作内容: WorkContent.md
     - 联系方式: ContactDetails.md
-- 宣传相关:
+- 宣传运营:
     - 平台运营: PlatformOperation.md
     - 宣传海报: PropagandaPoster.md
     - 活动策划: EventsPlanning.md
-- 商业相关:
+    - 年鉴记录: YearbookRecords.md
+- 合作交流:
     - 招商单页: CommercialPage.md
-    - 赞助权益: SponsorRights.md
+    - 战队周边: TeamSouvenir.md
     - 合作公示: PartnerAnnouncement.md
+    - 友队交流: FriendsTeam.md
     
 theme: readthedocs
 site_author: ASR-Crash
