@@ -13,9 +13,10 @@
 <table>
     <tr>
         <td><img src="鼠标垫（黑）.png"></td>
-        <td><img src="鼠标垫（黑）.png"></td>
+        <td><img src="鼠标垫（白）.png"></td>
     </tr>
 </table>
+
 
 #### U盘
 
